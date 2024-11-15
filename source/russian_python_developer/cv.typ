@@ -100,8 +100,11 @@
     fill: rgb(15%, 15%, 70%),
   )[
     #align(center)[
-      Россия, Белгород mortonmarrion\@gmail.com +79950168607 \@The_One_Reborn
-      The-One-Reborn-developer
+      #link("https://yandex.ru/maps/4/belgorod/?ll=36.587272%2C50.595415&z=12")[Россия, Белгород]
+      #link("mailto:mortonmarrion@gmail.com")[mortonmarrion\@gmail.com]
+      #link("tel:+79950168607")[+79950168607]
+      #link("https://t.me/The_One_Reborn")[\@The_One_Reborn]
+      #link("https://github.com/The-One-Reborn-developer")[The-One-Reborn-developer]
     ]
   ]
 ]

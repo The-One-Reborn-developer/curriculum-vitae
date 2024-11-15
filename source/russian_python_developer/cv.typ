@@ -1,3 +1,4 @@
+// Configuration
 #set document(
   date: auto,
   title: [Резюме, Аршидинов АП, Python Developer]
@@ -8,6 +9,13 @@
     margin: (x: 1cm, y: 1cm)
 )
 
+#set text(
+  font: "URW Gothic",
+  size: 7.66pt
+)
+
+
+// Header
 #align(right)[
   #text(
     fill: rgb(50%, 50%, 50%),
@@ -22,11 +30,8 @@
   ]
 ]
 
-#set text(
-  font: "URW Gothic",
-  size: 7.66pt
-)
 
+// Name
 #text(
   fill: rgb(15%, 15%, 70%)
 )[
@@ -35,6 +40,18 @@
   ]
 ]
 
+
+// Location, contacts, social net
+#text(
+  fill: rgb(15%, 15%, 70%)
+)[
+  #align(center)[
+    Белгород
+  ]
+]
+
+
+// Education
 #text(
   fill: rgb(15%, 15%, 70%)
 )[
@@ -50,6 +67,8 @@
 Открытый университет экономики управления и права,
 Информатика и вычислительная техника
 
+
+// Experience
 #text(
   fill: rgb(15%, 15%, 70%)
 )[
@@ -120,6 +139,8 @@ Python Developer
 
 • Коммуникация и консультация с заказчиком с целью формирования ТЗ.
 
+
+// About self
 #text(
   fill: rgb(15%, 15%, 70%)
 )[
@@ -132,6 +153,8 @@ Python Developer
 
 Постоянно улучшаю свои профессиональные знания. Стремлюсь использовать в проектах лучшую архитектуру и известные мне best practices. Пишу документацию и типизирую функции. Кроме backend-разработки занимаюсь деплоем приложений заказчиков на VPS-серверах.
 
+
+// Stack
 #text(
   fill: rgb(15%, 15%, 70%)
 )[

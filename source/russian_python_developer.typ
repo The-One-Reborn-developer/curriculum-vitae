@@ -1,3 +1,8 @@
+#set document(
+  date: auto,
+  title: [Резюме, Аршидинов АП, Python Developer]
+)
+
 #set page(
     paper: "a4",
     margin: (x: 1cm, y: 1cm)

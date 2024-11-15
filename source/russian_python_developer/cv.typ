@@ -1,17 +1,18 @@
 // Configuration
 #set document(
   date: auto,
-  title: [Резюме, Аршидинов АП, Python Developer]
+  title: [Резюме, Аршидинов АП, Python Developer],
+  author: "Аршидинов Адиль Пулатович"
 )
 
 #set page(
     paper: "a4",
-    margin: (x: 1cm, y: 1cm)
+    margin: (bottom: 2cm, top: 2cm, left: 1cm, right: 2cm)
 )
 
 #set text(
   font: "URW Gothic",
-  size: 10pt
+  size: 9pt
 )
 
 #show "Россия, Белгород": name => box[
@@ -81,7 +82,8 @@
 
 // Name
 #text(
-  fill: rgb(15%, 15%, 70%)
+  fill: rgb(15%, 15%, 70%),
+  size: 12pt
 )[
   #align(center)[
     = Аршидинов Адиль Пулатович, Python Developer
@@ -90,12 +92,17 @@
 
 
 // Location, contacts, social net
-#text(
-  fill: rgb(15%, 15%, 70%)
+#par(
+  leading: 1em,
+  justify: true
 )[
-  #align(center)[
-    Россия, Белгород mortonmarrion\@gmail.com +79950168607 \@The_One_Reborn
-    The-One-Reborn-developer
+  #text(
+    fill: rgb(15%, 15%, 70%),
+  )[
+    #align(center)[
+      Россия, Белгород mortonmarrion\@gmail.com +79950168607 \@The_One_Reborn
+      The-One-Reborn-developer
+    ]
   ]
 ]
 
@@ -133,8 +140,6 @@ Python Backend Developer
 ]
 
 Разработка приложений для техподдержки системы ВЕБМИС.
-
-Задачи:
 
 • Проектирование архитектуры приложений и баз данных.
 

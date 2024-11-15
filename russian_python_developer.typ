@@ -5,7 +5,7 @@
 
 #set text(
   font: "URW Gothic",
-  size: 20pt
+  size: 7.6pt
 )
 
 #align(right)[
@@ -13,7 +13,7 @@
 ]
 
 #align(center)[
-  = Аршидинов Адиль Пулатович
+  = Аршидинов Адиль Пулатович, Python Developer
 ]
 
 #align(left)[

@@ -11,15 +11,63 @@
 
 #set text(
   font: "URW Gothic",
-  size: 7.66pt
+  size: 10pt
 )
+
+#show "Россия, Белгород": name => box[
+  #box(image(
+    "pictures/location_logo.png",
+    height: 0.8em
+  ))
+  #name
+]
+
+#show "mortonmarrion@gmail.com": name => box[
+  #box(image(
+    "pictures/mail_logo.png",
+    height: 0.8em
+  ))
+  #name
+]
+
+#show "+79950168607": name => box[
+  #box(image(
+    "pictures/phone_logo.png",
+    height: 0.8em
+  ))
+  #name
+]
+
+#show "+79950168607": name => box[
+  #box(image(
+    "pictures/whatsapp_logo.png",
+    height: 0.8em
+  ))
+  #name
+]
+
+#show "@The_One_Reborn": name => box[
+  #box(image(
+    "pictures/telegram_logo.png",
+    height: 0.8em
+  ))
+  #name
+]
+
+#show "The-One-Reborn-developer": name => box[
+  #box(image(
+    "pictures/github_logo.png",
+    height: 0.8em
+  ))
+  #name
+]
 
 
 // Header
 #align(right)[
   #text(
     fill: rgb(50%, 50%, 50%),
-    size: 6.5pt
+    size: 7pt
   )[
     #heading(
       depth: 3,
@@ -46,7 +94,8 @@
   fill: rgb(15%, 15%, 70%)
 )[
   #align(center)[
-    Белгород
+    Россия, Белгород mortonmarrion\@gmail.com +79950168607 \@The_One_Reborn
+    The-One-Reborn-developer
   ]
 ]
 
@@ -64,7 +113,7 @@
 ]
 *Специалитет*
 
-Открытый университет экономики управления и права,
+*Открытый университет экономики управления и права*,
 Информатика и вычислительная техника
 
 

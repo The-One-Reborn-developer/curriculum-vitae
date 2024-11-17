@@ -234,7 +234,7 @@ Python, SQL, bash.
   === Библиотеки:
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
-gunicorn, openpyxl, pypdf.
+gunicorn, openpyxl, pypdf, opencv.
 
 #align(left)[
   === Фреймворки:

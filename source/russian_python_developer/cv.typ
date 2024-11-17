@@ -83,7 +83,7 @@
 // Name
 #text(
   fill: rgb(15%, 15%, 70%),
-  size: 12pt
+  size: 16pt
 )[
   #align(center)[
     = Аршидинов Адиль Пулатович, Python Developer

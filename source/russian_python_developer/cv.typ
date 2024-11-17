@@ -233,7 +233,8 @@ Python, SQL, bash.
 #align(left)[
   === Библиотеки:
 ]
-aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy, gunicorn.
+aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
+gunicorn, openpyxl, pypdf.
 
 #align(left)[
   === Фреймворки:

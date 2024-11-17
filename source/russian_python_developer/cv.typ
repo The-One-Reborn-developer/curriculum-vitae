@@ -91,6 +91,11 @@
 ]
 
 
+#v(
+  10pt
+)
+
+
 // Location, contacts, social net
 #par(
   leading: 1em,
@@ -239,6 +244,11 @@ Flask, Nginx, Celery, Redis, Docker, Git.
   === Базы Данных:
 ]
 SQLite, PostgreSQL.
+
+#align(left)[
+  === Паттерны:
+]
+MVC.
 
 #align(left)[
   === Языки разметки:

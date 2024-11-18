@@ -63,6 +63,14 @@
   #name
 ]
 
+#show "TheOneReborn" : name => box[
+  #box(image(
+    "pictures/habr_logo.png",
+    height: 0.8em
+  ))
+  #name
+]
+
 
 // Header
 #align(right)[
@@ -110,6 +118,7 @@
       #link("tel:+79950168607")[+79950168607]
       #link("https://t.me/The_One_Reborn")[\@The_One_Reborn]
       #link("https://github.com/The-One-Reborn-developer")[The-One-Reborn-developer]
+      #link("https://freelance.habr.com/freelancers/TheOneReborn")[TheOneReborn]
     ]
   ]
 ]
@@ -200,6 +209,8 @@ Python Developer
 • Разработка приложений по ТЗ заказчика.
 
 • Коммуникация и консультация с заказчиком с целью формирования ТЗ.
+
+• Успешно реализованных заказов: 2 (ссылка на профиль с отзывами Хабр Фриланс в шапке).
 
 
 // About self

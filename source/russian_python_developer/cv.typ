@@ -254,7 +254,7 @@ gunicorn, openpyxl, pypdf, opencv.
 #align(left)[
   === Фреймворки:
 ]
-Flask, Nginx, Celery, Redis, Docker, Git.
+Flask, Nginx, Celery, Redis, Docker, Git, REST API.
 
 #align(left)[
   === Базы Данных:

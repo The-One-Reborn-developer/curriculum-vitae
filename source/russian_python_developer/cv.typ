@@ -249,7 +249,7 @@ Python, SQL, bash.
   === Библиотеки:
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
-gunicorn, openpyxl, pypdf, opencv.
+gunicorn, openpyxl, pypdf, opencv, json, orjson.
 
 #align(left)[
   === Фреймворки:
@@ -269,7 +269,7 @@ MVC.
 #align(left)[
   === Языки разметки:
 ]
-Markdown, Typst.
+Markdown, Typst, JSON.
 
 #align(left)[
   === Инструменты управления проектами и совместной работы:

@@ -82,7 +82,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 18 ноября 2024_
+      _Последнее обновление 21 ноября 2024_
     ]
   ]
 ]
@@ -249,7 +249,7 @@ Python, SQL, bash.
   === Библиотеки:
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
-gunicorn, openpyxl, pypdf, opencv, json, orjson.
+gunicorn, openpyxl, pypdf, easyocr, json, orjson.
 
 #align(left)[
   === Фреймворки:

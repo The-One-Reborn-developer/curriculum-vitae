@@ -203,7 +203,7 @@ Python Backend Developer
 === Фриланс
 Python Developer
 #align(right)[
-  _октябрь 2024 — по настоящее время (2 месяца)_
+  _октябрь 2024 — ноябрь 2024 (2 месяца)_
 ]
 
 • Разработка приложений по ТЗ заказчика.
@@ -212,6 +212,18 @@ Python Developer
 
 • Успешно реализованных заказов: 2 (ссылка на профиль с отзывами Хабр Фриланс в шапке).
 
+=== Сервис+Услуги
+Fullstack Developer
+#align(right)[
+  _ноябрь 2024 — по настоящее время (1 месяц)_
+]
+Разработка приложений фриланс-платформ для связи заказчиков с мастерами.
+
+• Составление ТЗ.
+
+• Создание MVP.
+
+• ДАЛЕЕ ДОПОЛНИТЬ...
 
 // About self
 #text(
@@ -221,10 +233,9 @@ Python Developer
     == О себе
   ]
 ]
-
-На Python пишу уже больше года. Начал с бесплатных проектов для работодателя, потом работал в проектах на коммерческой основе, сейчас на фрилансе.
-
-Постоянно улучшаю свои профессиональные знания. Стремлюсь использовать в проектах лучшую архитектуру и известные мне best practices. Пишу документацию и типизирую функции. Кроме backend-разработки занимаюсь деплоем приложений заказчиков на VPS-серверах.
+На Python пишу уже больше года. Постоянно улучшаю свои профессиональные знания.
+Стремлюсь использовать в проектах лучшую архитектуру и известные мне best practices.
+Пишу документацию. Кроме разработки занимаюсь деплоем.
 
 #align(left)[
   === Владение иностранными языками (уровень): 
@@ -239,22 +250,19 @@ Python Developer
     == Стэк
   ] 
 ]
-
-#align(left)[
-  === Языки программирования: 
-]
-Python, SQL, bash.
+Python, SQL, HTML, CSS, JavaScript, bash.
 
 #align(left)[
   === Библиотеки:
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
-gunicorn, openpyxl, pypdf, easyocr, json, orjson.
+gunicorn, openpyxl, pypdf, easyocr, json, orjson, better-sqlite3,
+express.
 
 #align(left)[
   === Фреймворки:
 ]
-Flask, Nginx, Celery, Redis, Docker, Git, REST API.
+Flask, Nginx, Celery, Redis, Docker, Git, REST API, Node.js.
 
 #align(left)[
   === Базы Данных:
@@ -272,11 +280,6 @@ MVC.
 Markdown, Typst, JSON.
 
 #align(left)[
-  === Инструменты управления проектами и совместной работы:
+  === Инструменты:
 ]
-Atlassian (Jira, Confluence, Bitbucket), Notion, Miro.
-
-#align(left)[
-  === Инструменты тестирования и разработки API:
-]
-Postman.
+Atlassian (Jira, Confluence, Bitbucket), Notion, Miro, Postman, Certbot.

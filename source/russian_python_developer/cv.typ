@@ -82,7 +82,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 28 ноября 2024_
+      _Последнее обновление 30 ноября 2024_
     ]
   ]
 ]
@@ -289,7 +289,7 @@ Python, SQL, HTML, CSS, JavaScript, bash.
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
 gunicorn, openpyxl, pypdf, easyocr, json, orjson, better-sqlite3,
-express.
+express, vosk.
 
 #align(left)[
   === Фреймворки:

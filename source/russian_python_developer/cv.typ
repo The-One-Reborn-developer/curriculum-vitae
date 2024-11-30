@@ -285,11 +285,16 @@
 Python, SQL, HTML, CSS, JavaScript, bash.
 
 #align(left)[
+  === LLM-модели:
+]
+ollama.
+
+#align(left)[
   === Библиотеки:
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
 gunicorn, openpyxl, pypdf, easyocr, json, orjson, better-sqlite3,
-express, vosk.
+express, vosk, langchain.
 
 #align(left)[
   === Фреймворки:

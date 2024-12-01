@@ -82,7 +82,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 30 ноября 2024_
+      _Последнее обновление 1 декабря 2024_
     ]
   ]
 ]
@@ -285,16 +285,17 @@
 Python, SQL, HTML, CSS, JavaScript, bash.
 
 #align(left)[
-  === LLM-модели:
+  === AI-модели:
 ]
-ollama.
+llama2, llama3, GPT-4o mini, bge-m3, nomic-embed-text, gemma2,
+all-minilm, mxbai-embed-large.
 
 #align(left)[
   === Библиотеки:
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
 gunicorn, openpyxl, pypdf, easyocr, json, orjson, better-sqlite3,
-express, vosk, langchain.
+express, vosk, langchain, nodemon.
 
 #align(left)[
   === Фреймворки:

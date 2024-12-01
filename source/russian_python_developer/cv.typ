@@ -288,7 +288,7 @@ Python, SQL, HTML, CSS, JavaScript, bash.
   === AI-модели:
 ]
 llama2, llama3, GPT-4o mini, bge-m3, nomic-embed-text, gemma2,
-all-minilm, mxbai-embed-large.
+all-minilm, mxbai-embed-large, deepseek-coder-v2.
 
 #align(left)[
   === Библиотеки:

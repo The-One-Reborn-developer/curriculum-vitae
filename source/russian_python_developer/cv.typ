@@ -82,7 +82,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 1 декабря 2024_
+      _Последнее обновление 8 декабря 2024_
     ]
   ]
 ]
@@ -300,7 +300,7 @@ express, vosk, langchain, nodemon.
 #align(left)[
   === Фреймворки:
 ]
-Flask, Nginx, Celery, Redis, Docker, Git, REST API, Node.js.
+Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, REST API, Node.js.
 
 #align(left)[
   === Базы Данных:

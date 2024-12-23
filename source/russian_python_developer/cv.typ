@@ -63,14 +63,6 @@
   #name
 ]
 
-#show "TheOneReborn" : name => box[
-  #box(image(
-    "pictures/habr_logo.png",
-    height: 0.8em
-  ))
-  #name
-]
-
 
 // Header
 #align(right)[
@@ -82,7 +74,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 9 декабря 2024_
+      _Последнее обновление 23 декабря 2024_
     ]
   ]
 ]
@@ -118,7 +110,6 @@
       #link("tel:+79950168607")[+79950168607]
       #link("https://t.me/The_One_Reborn")[\@The_One_Reborn]
       #link("https://github.com/The-One-Reborn-developer")[The-One-Reborn-developer]
-      #link("https://freelance.habr.com/freelancers/TheOneReborn")[TheOneReborn]
     ]
   ]
 ]
@@ -149,7 +140,7 @@
   fill: rgb(15%, 15%, 70%)
 )[
   #align(left)[
-    == Опыт работы _(1 год 2 месяца)_
+    == Опыт работы _(9 месяцев)_
   ]
 ]
 
@@ -158,10 +149,10 @@
   spacing: 0em
 )[
   #align(left)[
-    Python Backend Developer
+    Python Developer
   ]
   #align(right)[
-    _июнь 2023 — октябрь 2023 (5 месяцев)_
+    _июнь 2024 — октябрь 2024 (4 месяца)_
   ]
 ]
 Разработка приложений для техподдержки системы ВЕБМИС.
@@ -182,37 +173,6 @@
 
 • Деплой на серверах заказчиков.
 
-=== Татнефть, ПАО
-#par(
-  spacing: 0em
-)[
-  #align(left)[
-    Python Backend Developer
-  ]
-  #align(right)[
-    _ноябрь 2023 — сентябрь 2024 (5 месяцев)_
-  ]
-]
-Разработка риск-трекера для выявления рисков на АЗС компании, их регистрации и устранения.
-
-• Проектирование архитектуры приложения.
-
-• Разработка структуры приложения, базы данных PostgreSQL.
-
-• Интеграция с API IntraService.
-
-• Контейнеризация с использованием Docker и docker-compose.
-
-• Установка и настройка сервера Nginx, интеграция с FastAPI-приложением для обработки вебхуков.
-
-• Разработка задач по запросам в базу данных в Celery с использованием Redis для оптимизации нагрузки.
-
-• Рефакторинг кода с целью упрощения дальнейшей поддержки.
-
-• Генерация Excel-отчётов по срезам.
-
-• Деплой на сервере заказчика.
-
 === Фриланс
 #par(
   spacing: 0em
@@ -228,8 +188,6 @@
 
 • Коммуникация и консультация с заказчиком с целью формирования ТЗ.
 
-• Успешно реализованных заказов: 2 (ссылка на профиль с отзывами Хабр Фриланс в шапке).
-
 === Сервис+Услуги
 #par(
   spacing: 0em
@@ -241,7 +199,7 @@
     _ноябрь 2024 — по настоящее время (2 месяца)_
   ]
 ]
-Разработка приложений фриланс-платформ для связи заказчиков с мастерами.
+Разработка приложений (Telegram-бот и Тelegram Mini App) фриланс-платформ для связи заказчиков с мастерами.
 
 • Составление ТЗ.
 
@@ -251,11 +209,32 @@
 
 • Создание дизайна веб-приложения.
 
+• Написание backend и frontend частей.
+
 • Контейнеризация с использованием Docker и docker-compose.
 
 • Регистрация домена, получение SSL сертификатов, настройка HTTP/HTTPS сервера на Nginx.
 
 • Деплой приложений на VPS.
+
+=== X-Faces
+#par(
+  spacing: 0em
+)[
+  #align(left)[
+    Fullstack Developer
+  ]
+  #align(right)[
+    _декабрь 2024 — по настоящее время (1 месяц)_
+  ]
+]
+Разработка backend и frontend для приложений компьютерного зрения.
+
+• Проектирование архитектуры backend и баз данных.
+
+• Написание endpoint'ов.
+
+• Написание тестов и фикстур для endpoint'ов.
 
 // About self
 #text(
@@ -295,7 +274,7 @@ all-minilm, mxbai-embed-large, deepseek-coder-v2.
 ]
 aiogram, python-dotenv, requests, asyncio, aiohttp, sqlalchemy,
 gunicorn, openpyxl, pypdf, easyocr, json, orjson, better-sqlite3,
-express, vosk, langchain, nodemon.
+express, vosk, langchain, nodemon, pika, uuid, multer, supabase, jinja2.
 
 #align(left)[
   === Фреймворки:
@@ -305,7 +284,7 @@ Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, REST API, Node.js.
 #align(left)[
   === Базы Данных:
 ]
-SQLite, PostgreSQL.
+SQLite, PostgreSQL, Supabase.
 
 #align(left)[
   === Паттерны:
@@ -320,5 +299,4 @@ Markdown, Typst, JSON.
 #align(left)[
   === Инструменты:
 ]
-Atlassian (Jira, Confluence, Bitbucket), Notion, Miro, Postman, Certbot,
-npm, pnpm.
+Atlassian (Jira, Confluence, Bitbucket), Gitlab, Notion, Miro, Postman, Certbot, npm, pnpm, npx.

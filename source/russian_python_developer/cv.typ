@@ -74,7 +74,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 23 декабря 2024_
+      _Последнее обновление 25 декабря 2024_
     ]
   ]
 ]
@@ -299,4 +299,4 @@ Markdown, Typst, JSON.
 #align(left)[
   === Инструменты:
 ]
-Atlassian (Jira, Confluence, Bitbucket), Gitlab, Notion, Miro, Postman, Certbot, npm, pnpm, npx.
+Atlassian (Jira, Confluence, Bitbucket), Gitlab, Notion, Miro, Postman, Certbot, npm, pnpm, npx, crontab.

@@ -63,6 +63,13 @@
   #name
 ]
 
+#show "№1": name => box[
+  #box(image(
+    "pictures/xweather.jpg",
+  ))
+  #name
+]
+
 
 // Header
 #align(right)[
@@ -74,7 +81,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 24 января 2025_
+      _Последнее обновление 27 января 2025_
     ]
   ]
 ]
@@ -200,6 +207,8 @@
 
 • Проектирование backend и баз данных, написание endpoint'ов, тестов.
 
+• Разработка виджета погоды. Находится в топ-10 в Румынии по запросам о прогнозе в конкретных городах *(приложение 1)*.
+
 // About self
 #text(
   fill: rgb(15%, 15%, 70%)
@@ -224,3 +233,13 @@
   ] 
 ]
 Python, SQL, HTML, CSS, JavaScript, bash, supabase, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, Node.js, React.
+
+// Attachments
+#text(
+  fill: rgb(15%, 15%, 70%)
+)[
+  #align(left)[
+    == Приложения
+  ] 
+]
+№1

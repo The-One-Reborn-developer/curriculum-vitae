@@ -81,7 +81,7 @@
       depth: 3,
       outlined: false
     )[
-      _Last updated on January 31st 2025_
+      _Last updated on February 8th 2025_
     ]
   ]
 ]
@@ -257,7 +257,7 @@ Russian (C2), English (C2), Deutsch (A2), Spanish (A1).
     == Stack
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Node.js, bash, supabase, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git.
+Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Node.js, bash, supabase, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
 
 // Attachments
 #text(

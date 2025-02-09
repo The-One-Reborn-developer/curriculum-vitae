@@ -81,7 +81,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 8 февраля 2025_
+      _Последнее обновление 9 февраля 2025_
     ]
   ]
 ]
@@ -259,7 +259,7 @@
     == Стэк
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Node.js, bash, supabase, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
+Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Node.js, bash, Supabase, Selenium, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
 
 // Attachments
 #text(

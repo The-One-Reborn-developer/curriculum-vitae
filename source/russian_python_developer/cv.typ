@@ -259,7 +259,7 @@
     == Стэк
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Node.js, bash, Supabase, Selenium, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
+Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Node.js, bash, Supabase, Selenium, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
 
 // Attachments
 #text(

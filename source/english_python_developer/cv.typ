@@ -70,6 +70,13 @@
   #name
 ]
 
+#show "№2": name => box[
+  #box(image(
+    "pictures/db_optimization.jpg"    
+  ))
+  #name
+]
+
 
 // Header
 #align(right)[
@@ -81,7 +88,7 @@
       depth: 3,
       outlined: false
     )[
-      _Last updated on February 9th 2025_
+      _Last updated on February 23rd 2025_
     ]
   ]
 ]
@@ -232,7 +239,7 @@
 
 • Preparing datasets of bank cards, ID cards, passports and driving licenses for LLM use.
 
-• Training Gemini for recognizing pictures of documents.
+• Optimizing backend by indexing database queries and refactoring them with the use of table JOIN-s, which improved the backend performance by 3 times *(application 2)*.
 
 // About self
 #text(
@@ -268,3 +275,5 @@ Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Node.js, bash,
   ] 
 ]
 №1
+
+№2

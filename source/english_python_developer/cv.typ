@@ -88,7 +88,7 @@
       depth: 3,
       outlined: false
     )[
-      _Last updated on February 23rd 2025_
+      _Last updated on March 3rd 2025_
     ]
   ]
 ]
@@ -100,7 +100,7 @@
   size: 12pt
 )[
   #align(center)[
-    = Adil Arshidinov, Python Developer
+    = Adil Arshidinov, Python Developer, CV/ML Engineer
   ]
 ]
 
@@ -134,7 +134,7 @@
   fill: rgb(15%, 15%, 70%)
 )[
   #align(left)[
-    == Experience _(2 years 2 months )_
+    == Experience _(2 years 3 months )_
   ]
 ]
 
@@ -228,7 +228,7 @@
     Python Developer, Computer Vision Engineer
   ]
   #align(right)[
-    _January 2024 — Present Time (1 year)_
+    _January 2024 — Present Time (1 year 1 month)_
   ]
 ]
 • Developing backend и frontend for a computer vision application.
@@ -264,7 +264,7 @@ Russian (C2), English (C2), Deutsch (A2), Spanish (A1).
     == Stack
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Node.js, bash, Supabase, Selenium, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
+Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
 
 // Attachments
 #text(

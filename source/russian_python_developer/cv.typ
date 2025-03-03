@@ -88,7 +88,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 23 февраля 2025_
+      _Последнее обновление 3 марта 2025_
     ]
   ]
 ]
@@ -100,7 +100,7 @@
   size: 12pt
 )[
   #align(center)[
-    = Аршидинов Адиль Пулатович, Python Developer
+    = Аршидинов Адиль Пулатович, Python Developer, CV/ML Engineer
   ]
 ]
 
@@ -134,7 +134,7 @@
   fill: rgb(15%, 15%, 70%)
 )[
   #align(left)[
-    == Опыт работы _(2 года 2 месяца )_
+    == Опыт работы _(2 года 3 месяца )_
   ]
 ]
 
@@ -227,10 +227,10 @@
   spacing: 0em
 )[
   #align(left)[
-    Python Developer, Computer Vision Engineer
+    Python Developer, Computer Vision Engineer / ML Engineer
   ]
   #align(right)[
-    _январь 2024 — по настоящее время (1 год)_
+    _январь 2024 — по настоящее время (1 год 1 месяц)_
   ]
 ]
 • Разработка backend и frontend для приложений компьютерного зрения.
@@ -266,7 +266,7 @@
     == Стэк
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Node.js, bash, Supabase, Selenium, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
+Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
 
 // Attachments
 #text(

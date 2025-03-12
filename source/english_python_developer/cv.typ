@@ -88,7 +88,7 @@
       depth: 3,
       outlined: false
     )[
-      _Last updated on March 3rd 2025_
+      _Last updated on March 12th 2025_
     ]
   ]
 ]
@@ -265,6 +265,8 @@ Russian (C2), English (C2), Deutsch (A2), Spanish (A1).
   ] 
 ]
 Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
+
+fastai, sklearn.
 
 // Attachments
 #text(

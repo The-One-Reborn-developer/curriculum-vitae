@@ -15,6 +15,8 @@
   size: 9pt
 )
 
+#show link: set text(fill: blue)
+
 #show "Russia, Belgorod": name => box[
   #box(image(
     "pictures/location_logo.png",

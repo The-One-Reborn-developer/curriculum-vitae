@@ -166,7 +166,7 @@
 
 Стэк: Python, JavaScript, HTML, CSS, Bash, SQL, ORM, SQLAlchemy, SQLite, PostgreSQL, FastAPI, Celery, Redis, Nginx, Docker, Docker-compose, Postman, Git, asyncio, aiohttp, REST, API.
 
-=== Anvio VR
+=== X-Faces
 #par(
   spacing: 0em
 )[

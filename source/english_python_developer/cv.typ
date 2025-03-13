@@ -88,7 +88,7 @@
       depth: 3,
       outlined: false
     )[
-      _Last updated on March 12th 2025_
+      _Last updated on March 13th 2025_
     ]
   ]
 ]
@@ -134,7 +134,7 @@
   fill: rgb(15%, 15%, 70%)
 )[
   #align(left)[
-    == Experience _(2 years 3 months )_
+    == Experience _(3 years 7 months )_
   ]
 ]
 
@@ -146,47 +146,27 @@
     Python Developer
   ]
   #align(right)[
-    _November 2022 — March 2023 (5 months)_
+    _September 2021 — January 2024 (2 years 5 months)_
   ]
 ]
-• Developing applications for technical support of the region's web Electronic Health Record and Hospital Management Systems.
+Worked in a team of 5 specialists (excluding me): CTO, Backend developer, DevOps/System Engineer, System Administrator, QA.
+As a Team Lead, I interacted with 4 teams: my own, VEBMIS system technical support, developers from #link("https://botkin.ai/en_main")[Botkin AI] and #link("https://ira-labs.com/")[IRA-Labs].
 
-• Engineering of application's architecture, database (SQLite) and micro services.
+The Innovation Department was engaged in software development for the needs of the regional and national Ministry of Health system; integration, support and monitoring in the region; implementation of AI technologies.
 
-• API HelpDeskEddy Integration.
+• Created telegram bots for most state hospitals and clinics in the region, reducing the load on the information center and hotline by 15%.
 
-• Containerization (Docker, docker-compose).
+• Automated the collection and execution of requests for VEBMIS system technical support, increasing the productivity of technical support engineers by 50%.
 
-• Configuring Nginx, Flask for managing webhooks.
+• Led the creation of a pipeline for sending data from medical equipment via API to the Ministry of Health servers (for storage) and to the Botkin AI/IRA-Labs services for inference, receiving callbacks from both.
 
-• Requests optimization with Celery and Redis.
+• Led the creation of an internal-use service for monitoring and configuring IoMT.
 
-• Refactoring code to simplify application support, deploy to server.
+• As a result of the implementation of AI services, 83% of visits to obtain results from doctors using smart equipment were eliminated, which increased their productivity by 21%.
 
-=== Tatneft, Public Joint Stock Company
-#par(
-  spacing: 0em
-)[
-  #align(left)[
-    Python Backend Developer
-  ]
-  #align(right)[
-    _April 2023 — July 2023 (4 months)_
-  ]
-]
-• Engineering of application's architecture, database (PostgreSQL) and micro services.
+Stack: Python, JavaScript, HTML, CSS, Bash, SQL, ORM, SQLAlchemy, SQLite, PostgreSQL, FastAPI, Celery, Redis, Nginx, Docker, Docker-compose, Postman, Git, asyncio, aiohttp, REST, API.
 
-• API IntraService integration, webhooks (Nginx + Flask).
-
-• Containerization (Docker, docker-compose).
-
-• Requests optimization with Celery and Redis.
-
-• Generating Excel-spreadsheet reports.
-
-• Refactoring code to simplify application support, deploy to VPS.
-
-=== Freelance
+=== X-Faces
 #par(
   spacing: 0em
 )[
@@ -194,52 +174,26 @@
     Python Developer
   ]
   #align(right)[
-    _August 2023 — September 2023 (2 months)_
+    _February 2024 — Present Time (1 year 2 month)_
   ]
 ]
-• Developing applications according to the client's technical task.
+Worked in a team of 8 people (excluding me): Project Manager, Team Lead, Backend developer, 2 Frontend developers, 2 QA, analyst. A total of 4 teams worked on the product.
 
-• Communicating with the client to form a technical task.
+Created a user recognition system based on documents, selfies and liveness for partners from Romania + widgets for partner resources.
 
-=== Servis+Uslugi
-#par(
-  spacing: 0em
-)[
-  #align(left)[
-    Fullstack Developer
-  ]
-  #align(right)[
-    _October 2023 — December 2023 (3 месяца)_
-  ]
-]
-• Developing a Telegram bot and a Mini App for a freelance platform.
+• Led the development of a weather widget. It is in the top 10 in Romania for queries in specific cities *(Appendix 1)*.
 
-• Writing backend and frontend.
+• Optimized work with the database through indexing and JOIN queries, accelerating queries from an average of 102ms to 40ms (+ 39%) *(Appendix 2)*.
 
-• Containerization (Docker, docker-compose).
+• Implemented a user tracker and multi-account detection with subsequent notification of partners, which allowed us to identify fraudsters and save an average of 4735\$ per month.
 
-• Setting up Nginx, getting SSL, deploying to VPS.
+• Introduced the use of DVC for working with datasets for CV models, which allowed avoiding the costs of storing datasets on the server and potential performance degradation.
 
-=== X-Faces
-#par(
-  spacing: 0em
-)[
-  #align(left)[
-    Python Developer, Computer Vision Engineer
-  ]
-  #align(right)[
-    _January 2024 — Present Time (1 year 1 month)_
-  ]
-]
-• Developing backend и frontend for a computer vision application.
+• Implemented user recognition by bank cards, which potentially increased partners' MRR by \$34,387.
 
-• Backend and database design.
+• Negotiated with partners from Romania and France on the specifics of the product being created.
 
-• Developing a weather widget. Is in a top 10 in Romania *(application 1)*.
-
-• Preparing datasets of bank cards, ID cards, passports and driving licenses for LLM use.
-
-• Optimizing backend by indexing database queries and refactoring them with the use of table JOIN-s, which improved the backend performance by 3 times *(application 2)*.
+Stack: Python, JavaScript, SQL, Bash, Supabase ORM, Supabase, Flask, Celery, RabbitMQ, Postman, Git, REST, API.
 
 // About self
 #text(
@@ -273,7 +227,7 @@ fastai, sklearn.
   fill: rgb(15%, 15%, 70%)
 )[
   #align(left)[
-    == Applications
+    == Appendix
   ] 
 ]
 №1

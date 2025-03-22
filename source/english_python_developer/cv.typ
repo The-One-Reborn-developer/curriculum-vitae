@@ -79,6 +79,20 @@
   #name
 ]
 
+#show "№3": name => box[
+  #box(image(
+    "pictures/accuracy_before.jpg"
+  ))
+  #name CV model accuracy before: 95.2%
+]
+
+#show "№4": name => box[
+  #box(image(
+    "pictures/accuracy_after.jpg"
+  ))
+  #name CV model accuracy after: 98.4%
+]
+
 
 // Header
 #align(right)[
@@ -90,7 +104,7 @@
       depth: 3,
       outlined: false
     )[
-      _Last updated on March 13th 2025_
+      _Last updated on March 22nd 2025_
     ]
   ]
 ]
@@ -193,6 +207,8 @@ Created a user recognition system based on documents, selfies and liveness for p
 
 • Implemented user recognition by bank cards, which potentially increased partners' MRR by \$34,387.
 
+• Completely reworked the datasets for training the CV model: corrected errors/typos, brought them to a single format. Wrote validator scripts and formatters for this. Result: increased accuracy of the CV model by 3.2% *(Appendix 3)*.
+
 • Negotiated with partners from Romania and France on the specifics of the product being created.
 
 Stack: Python, JavaScript, SQL, Bash, Supabase ORM, Supabase, Flask, Celery, RabbitMQ, Postman, Git, REST, API.
@@ -235,3 +251,7 @@ fastai, sklearn.
 №1
 
 №2
+
+№3
+
+№4

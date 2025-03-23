@@ -209,7 +209,7 @@ Created a user recognition system based on documents, selfies and liveness for p
 
 • Completely reworked the datasets for training the CV model: corrected errors/typos, brought them to a single format. Wrote validator scripts and formatters for this. Result: increased accuracy of the CV model by 3.2% *(Appendix 3)*.
 
-• Negotiated with partners from Romania and France on the specifics of the product being created.
+• Implemented Luhn's algorithm for validating the CNP number of ID documents (Romania, European Union) and bank cards (VISA, MASTERCARD, DISCOVER, REVOLUT, GEORGE).
 
 Stack: Python, JavaScript, SQL, Bash, Supabase ORM, Supabase, Flask, Celery, RabbitMQ, Postman, Git, REST, API.
 

@@ -236,7 +236,7 @@ Russian (C2), English (C2), Deutsch (A2), Spanish (A1).
     == Stack
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC.
+Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC, Sentry.
 
 fastai, sklearn.
 

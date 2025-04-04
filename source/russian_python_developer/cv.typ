@@ -223,9 +223,8 @@
     == О себе
   ]
 ]
-В IT более 6 лет.
 Интересно повышать свою компетентность как разработчика, решать сложные бизнес-задачи.
-Увлекаюсь созданием ML-моделей, участвую в соревнованиях на Kaggle.
+Параллельно развиваюсь как AI-разработчик/ML-инженер/MLOps.
 
 #align(left)[
   === Владение иностранными языками (уровень): 
@@ -240,9 +239,8 @@
     == Стэк
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC, Sentry.
-
-fastai, sklearn.
+Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC, Sentry,
+transformers, PyTorch.
 
 // Attachments
 #text(

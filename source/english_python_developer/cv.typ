@@ -211,6 +211,8 @@ Created a user recognition system based on documents, selfies and liveness for p
 
 • Implemented Luhn's algorithm for validating the CNP number of ID documents (Romania, European Union) and bank cards (VISA, MASTERCARD, DISCOVER, REVOLUT, GEORGE).
 
+• Fine-tuned gemma 3 and integrated it into data processing pipeline.
+
 Stack: Python, JavaScript, SQL, Bash, Supabase ORM, Supabase, Flask, Celery, RabbitMQ, Postman, Git, REST, API.
 
 // About self
@@ -236,9 +238,8 @@ Russian (C2), English (C2), Deutsch (A2), Spanish (A1).
     == Stack
   ] 
 ]
-Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC, Sentry.
-
-fastai, sklearn.
+Python, SQL, HTML, CSS, JavaScript, Bootstrap, Node.js, bash, Supabase, Selenium, FastAPI, Flask, Nginx, Celery, Redis, RabbitMQ, Docker, Git, DVC, Sentry,
+transformers, PyTorch.
 
 // Attachments
 #text(

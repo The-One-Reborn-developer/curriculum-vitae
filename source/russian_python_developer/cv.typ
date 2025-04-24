@@ -69,14 +69,14 @@
   #box(image(
     "pictures/xweather.jpg",
   ))
-  #name
+  #name Статистика запросов 
 ]
 
 #show "№2": name => box[
   #box(image(
     "pictures/db_optimization.jpg"    
   ))
-  #name
+  #name Разгрузка сервера после оптимизации БД
 ]
 
 #show "№3": name => box[
@@ -104,7 +104,7 @@
       depth: 3,
       outlined: false
     )[
-      _Последнее обновление 1 апреля 2025_
+      _Последнее обновление 20 апреля 2025_
     ]
   ]
 ]
@@ -211,7 +211,7 @@
 
 • Внедрил алгоритм Луна для валидации CNP-номера ID-документов (Румыния, Евросоюз) и банковских карт (VISA, MASTERCARD, DISCOVER, REVOLUT, GEORGE).
 
-• Fine-tune-ил gemma 3 и встроил модель в пайплайн обработки данных.
+• Fine-tune-ил gemma 3, Mistral и OpenAI GPT и встроил модели в пайплайн обработки данных.
 
 Стэк: Python, JavaScript, SQL, Bash, Supabase ORM, Supabase, Flask, Celery, RabbitMQ, Postman, Git, REST, API.
 

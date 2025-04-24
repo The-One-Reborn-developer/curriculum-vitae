@@ -69,14 +69,14 @@
   #box(image(
     "pictures/xweather.jpg",
   ))
-  #name
+  #name Search queries statistics
 ]
 
 #show "№2": name => box[
   #box(image(
     "pictures/db_optimization.jpg"    
   ))
-  #name
+  #name Server's load after DB optimization
 ]
 
 #show "№3": name => box[
@@ -104,7 +104,7 @@
       depth: 3,
       outlined: false
     )[
-      _Last updated on March 22nd 2025_
+      _Last updated on April 24th 2025_
     ]
   ]
 ]
@@ -211,7 +211,7 @@ Created a user recognition system based on documents, selfies and liveness for p
 
 • Implemented Luhn's algorithm for validating the CNP number of ID documents (Romania, European Union) and bank cards (VISA, MASTERCARD, DISCOVER, REVOLUT, GEORGE).
 
-• Fine-tuned gemma 3 and integrated it into data processing pipeline.
+• Fine-tuned Gemma 3, Mistral and OpenAI GPT and integrated them into data processing pipeline.
 
 Stack: Python, JavaScript, SQL, Bash, Supabase ORM, Supabase, Flask, Celery, RabbitMQ, Postman, Git, REST, API.
 

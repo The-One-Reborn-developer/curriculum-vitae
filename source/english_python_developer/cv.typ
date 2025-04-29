@@ -201,8 +201,6 @@ Created a user recognition system based on documents, selfies and liveness for p
 
 • Optimized work with the database through indexing and JOIN queries, accelerating queries from an average of 102ms to 40ms (+ 39%) *(Appendix 2)*.
 
-• Implemented a user tracker and multi-account detection with subsequent notification of partners, which allowed us to identify fraudsters and save an average of 4735\$ per month.
-
 • Introduced the use of DVC for working with datasets for CV models, which allowed avoiding the costs of storing datasets on the server and potential performance degradation.
 
 • Implemented user recognition by bank cards, which potentially increased partners' MRR by \$34,387.

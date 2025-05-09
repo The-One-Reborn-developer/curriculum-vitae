@@ -17,7 +17,7 @@
 
 #show link: set text(fill: blue)
 
-#show "Россия, Белгород, GMT+3": name => box[
+#show "Россия, Москва, GMT+3": name => box[
   #box(image(
     "pictures/location_logo.png",
     height: 0.8em
@@ -119,7 +119,7 @@
     fill: rgb(15%, 15%, 70%),
   )[
     #align(center)[
-      #link("https://yandex.ru/maps/4/belgorod/?ll=36.587272%2C50.595415&z=12")[Россия, Белгород, GMT+3]
+      #link("https://yandex.ru/maps/4/belgorod/?ll=36.587272%2C50.595415&z=12")[Россия, Москва, GMT+3]
       #link("mailto:mortonmarrion@gmail.com")[mortonmarrion\@gmail.com]
       #link("tel:+79950168607")[+79950168607]
       #link("https://t.me/The_One_Reborn")[\@The_One_Reborn]
